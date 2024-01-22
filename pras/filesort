@@ -1,0 +1,23 @@
+total 80
+drwxrwxr-x 2 ubuntu ubuntu 4096 Aug 30 16:37 cut
+drwxrwxr-x 2 ubuntu ubuntu 4096 Sep  7 15:40 dir
+drwxrwxr-x 4 ubuntu ubuntu 4096 Sep  4 16:51 dir1
+drwxrwxr-x 2 ubuntu ubuntu 4096 Sep  4 16:23 dir13
+drwxrwxr-x 3 ubuntu ubuntu 4096 Sep  4 16:29 dir2
+drwxrwxr-x 2 ubuntu ubuntu 4096 Aug 27 06:36 dir3
+drwxrwxr-x 4 ubuntu ubuntu 4096 Sep  4 16:49 dir5
+drwxrwxr-x 2 ubuntu ubuntu 4096 Aug 30 17:04 dir7
+drwxrwxr-x 2 ubuntu ubuntu 4096 Aug 31 16:05 dir8
+-rw-rw-r-- 1 ubuntu ubuntu    7 Sep  4 17:02 file1.txt
+-rw-rw-r-- 1 ubuntu ubuntu  168 Sep  7 16:08 file11.txt
+-rw-rw-r-- 1 ubuntu ubuntu  364 Aug 27 05:58 file2_link
+-rw-rw-r-- 1 ubuntu ubuntu    0 Sep  7 16:19 filesort
+drwxrwxr-x 2 ubuntu ubuntu 4096 Sep  1 15:48 find
+drwxrwxr-x 2 ubuntu ubuntu 4096 Aug 29 00:12 fruit1.txt
+-rw-rw-r-- 1 ubuntu ubuntu  230 Sep  4 16:50 new
+drwxrwxr-x 2 ubuntu ubuntu 4096 Sep  4 16:22 p
+drwxrwxr-x 3 ubuntu ubuntu 4096 Sep  1 15:36 prasad
+drwxrwxr-x 2 ubuntu ubuntu 4096 Aug 27 10:19 pvv
+-rw-rw-r-- 1 ubuntu ubuntu  319 Aug 31 00:06 school
+drwxrwxr-x 4 ubuntu ubuntu 4096 Sep  2 16:27 test
+lrwxrwxrwx 1 ubuntu ubuntu    9 Sep  1 16:22 text.txt_lnk -> file1.txt
